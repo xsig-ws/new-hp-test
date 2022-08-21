@@ -1,0 +1,5 @@
+theme: minima
+source: 2023
+destination: docs/2023
+baseurl: /2023/
+
