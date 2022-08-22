@@ -1,6 +1,6 @@
 ---
 title: kangaeru
-parmalink: 2023/kangaeru.html
+permalink: 2023/kangaeru.html
 ---
 
 ## 考える会
