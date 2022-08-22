@@ -1,7 +1,2 @@
 theme: minima
 
-defaults:
-  - scope:
-      path: ""
-    values: 
-      permalink: /:categories/:title:output_ext

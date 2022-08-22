@@ -1,6 +1,6 @@
 ---
 title: index
-category: 2023
+parmalink: 2023/index.html
 ---
 
 ## xSIG2023
